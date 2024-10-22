@@ -1,4 +1,4 @@
-# Generate Prime Numbers
+# Generate Prime Numbers / implementing a worker
 
 ## Objective
 To understand how to use web workers.
