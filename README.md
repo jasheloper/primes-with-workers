@@ -8,6 +8,8 @@ To understand how to use web workers.
 ## Notes
 **Workers** enable you to run (or offload) some tasks in a separate thread of execution.
 
+They can be an effective way to keep the main application responsive, although they can't access all the APIs that the main application can, and in particular can't access the DOM.
+
 <br>
 
 *"if multiple threads can have access to the same shared data, it's possible for them to change it independently and unexpectedly (with respect to each other). This can cause bugs that are hard to find."*
