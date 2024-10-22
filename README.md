@@ -3,6 +3,8 @@
 ## Objective
 To understand how to use web workers.
 
+<br>
+
 ## Notes
 **Workers** enable you to run some tasks in a separate thread of execution.
 
